@@ -29,7 +29,7 @@ export function Products() {
             <div key={index} className="group relative overflow-hidden rounded-lg">
               <div className="aspect-square overflow-hidden">
                 <Image
-                  src={require(product.image)}
+                  src={product.image}
                   alt={product.title}
                   width={400}
                   height={400}

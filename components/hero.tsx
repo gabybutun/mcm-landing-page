@@ -8,7 +8,7 @@ export function Hero() {
     <section className="relative">
       <div className="absolute inset-0 z-0">
         <Image
-          src={require('/images/factory.jpeg')}
+          src="/images/factory.jpeg"
           alt="Children's clothing manufacturing"
           fill
           className="object-cover brightness-[0.7]"
