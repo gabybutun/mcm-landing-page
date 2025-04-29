@@ -19,7 +19,7 @@ export function Footer() {
             </div>
             <p className="text-slate-400">
               PT. Marga Cheetah Manufacturer (MCM) is a seasoned garment manufacturing company based in Jakarta,
-              Indonesia. Founded in 1997 by Endy Butun.
+              Indonesia
             </p>
           </div>
           <div>

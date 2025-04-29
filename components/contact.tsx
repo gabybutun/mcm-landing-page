@@ -39,9 +39,10 @@ export function Contact() {
               </div>
             </div>
           </div>
-          <div>
+          {/* Contact Form Disabled. Google URL not configured */}
+          {/* <div>
             <ContactForm />
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
