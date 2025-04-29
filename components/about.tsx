@@ -7,7 +7,7 @@ export function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <Image
-            src={require('@/assets/images/factory_2.jpeg')}
+            src={require('/images/factory_2.jpeg')}
               alt="MCM Factory"
               width={600}
               height={400}

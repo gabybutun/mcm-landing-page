@@ -15,15 +15,15 @@ export function Products() {
           {[
             {
               title: "Girls' Dresses",
-              image: "@/assets/images/blue_dress.png",
+              image: "/images/blue_dress.png",
             },
             {
               title: "Children's Casual Wear",
-              image: "@/assets/images/chiffon_dress_aloha.png",
+              image: "/images/chiffon_dress_aloha.png",
             },
             {
               title: "Legging Sets",
-              image: "@/assets/images/legging_set.jpg",
+              image: "/images/legging_set.jpg",
             },
           ].map((product, index) => (
             <div key={index} className="group relative overflow-hidden rounded-lg">

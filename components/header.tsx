@@ -9,7 +9,7 @@ export function Header() {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2">
           <Image
-            src={require('@/assets/images/logo.png')}
+            src={require('/images/logo.png')}
             alt="MCM Logo"
             width={50}
             height={50}
